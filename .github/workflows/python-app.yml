@@ -41,7 +41,7 @@ jobs:
         python3 main.py
     - name: git pull
       run: |
-          git pull origin main
+          git pull origin master
 
     - name: git add
       run: |
@@ -50,5 +50,5 @@ jobs:
 
     - name: commit & push
       run: |
-          git commit -m "links are updated"
+          git commit -m "Actualizado ${{ github.event.repository.updated_at}}"
           git push
