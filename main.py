@@ -6,10 +6,10 @@ url = "https://www.catastro.gov.py/expediente-electronico/api/public/consultas-p
 
 # Los filtros deben estar en formato JSON
 # Define las variables que necesitas
-botId = os.getenv("BOT_ID")
-chatId = os.getenv("CHAT_ID")
-anio = os.getenv("ANIO")
-expediente = os.getenv("EXPEDIENTE_ID")
+botId = os.environ["BOT_ID"]
+chatId = os.environ["CHAT_ID"]
+anio = os.environ["ANIO"]
+expediente = os.environ["EXPEDIENTE_ID"]
 
 filters = {"anho": anio, "numeroExpediente": expediente}
 params = {"filters": json.dumps(filters)}
