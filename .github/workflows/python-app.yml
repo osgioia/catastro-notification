@@ -39,6 +39,11 @@ jobs:
         EXPEDIENTE_ID: ${{ secrets.EXPEDIENTE_ID }}
       run: |
         python3 main.py
+    # Runs a set of commands using the runners shell 
+    - name: config
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
     - name: git pull
       run: |
           git pull origin master
