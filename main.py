@@ -57,12 +57,12 @@ def cargar_desde_json(archivo):
 # Nombre del archivo JSON para guardar los datos
 archivo_json = "resultado.json"
 
+# Cargar los datos más recientes desde el archivo JSON
+datos_previos = cargar_desde_json(archivo_json)
+
 # Realizar la solicitud y guardar los datos en un archivo JSON
 nuevos_datos = hacer_solicitud()
 guardar_en_json(nuevos_datos, archivo_json)
-
-# Cargar los datos más recientes desde el archivo JSON
-datos_previos = cargar_desde_json(archivo_json)
 
 if datos_previos:
     # Comparar los datos actuales con los datos anteriores
