@@ -1,0 +1,42 @@
+[
+    {
+        "fecha": 1695735743000,
+        "fechaString": "26-09-2023",
+        "hora": "09:42:23",
+        "actividad": "EN PROCESO",
+        "dependenciaProceso": "MESA DE ENTRADA",
+        "dependenciaEnvio": ""
+    },
+    {
+        "fecha": 1695735802000,
+        "fechaString": "26-09-2023",
+        "hora": "09:43:22",
+        "actividad": "ENVIADO A ",
+        "dependenciaProceso": "MESA DE ENTRADA",
+        "dependenciaEnvio": "CATASTRO URBANO"
+    },
+    {
+        "fecha": 1697795521000,
+        "fechaString": "20-10-2023",
+        "hora": "06:52:01",
+        "actividad": "EN PROCESO",
+        "dependenciaProceso": "CATASTRO URBANO",
+        "dependenciaEnvio": ""
+    },
+    {
+        "fecha": 1698936097000,
+        "fechaString": "02-11-2023",
+        "hora": "11:41:37",
+        "actividad": "EN PROCESO",
+        "dependenciaProceso": "CATASTRO URBANO",
+        "dependenciaEnvio": ""
+    },
+    {
+        "fecha": 1698936107000,
+        "fechaString": "02-11-2023",
+        "hora": "11:41:47",
+        "actividad": "EN PROCESO",
+        "dependenciaProceso": "CATASTRO URBANO",
+        "dependenciaEnvio": ""
+    }
+]
