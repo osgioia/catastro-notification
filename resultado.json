@@ -38,5 +38,21 @@
         "actividad": "EN PROCESO",
         "dependenciaProceso": "CATASTRO URBANO",
         "dependenciaEnvio": ""
+    },
+    {
+        "fecha": 1699268220000,
+        "fechaString": "06-11-2023",
+        "hora": "07:57:00",
+        "actividad": "ENVIADO A ",
+        "dependenciaProceso": "CATASTRO URBANO",
+        "dependenciaEnvio": "MESA DE SALIDA"
+    },
+    {
+        "fecha": 1699280063000,
+        "fechaString": "06-11-2023",
+        "hora": "11:14:23",
+        "actividad": "EN PROCESO",
+        "dependenciaProceso": "MESA DE SALIDA",
+        "dependenciaEnvio": ""
     }
 ]
