@@ -54,5 +54,13 @@
         "actividad": "EN PROCESO",
         "dependenciaProceso": "MESA DE SALIDA",
         "dependenciaEnvio": ""
+    },
+    {
+        "fecha": 1699378109000,
+        "fechaString": "07-11-2023",
+        "hora": "14:28:29",
+        "actividad": "ENTREGADO AL RECURRENTE",
+        "dependenciaProceso": "MESA DE SALIDA",
+        "dependenciaEnvio": ""
     }
 ]
