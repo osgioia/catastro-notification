@@ -14,5 +14,13 @@
         "actividad": "EN PROCESO",
         "dependenciaProceso": "CATASTRO DIGITAL",
         "dependenciaEnvio": ""
+    },
+    {
+        "fecha": 1700224707000,
+        "fechaString": "17-11-2023",
+        "hora": "09:38:27",
+        "actividad": "ENTREGADO AL RECURRENTE",
+        "dependenciaProceso": "CATASTRO DIGITAL",
+        "dependenciaEnvio": ""
     }
 ]
