@@ -1,26 +1,34 @@
 [
     {
-        "fecha": 1700156723000,
-        "fechaString": "16-11-2023",
-        "hora": "14:45:23",
+        "fecha": 1700478224000,
+        "fechaString": "20-11-2023",
+        "hora": "08:03:44",
         "actividad": "EN PROCESO",
-        "dependenciaProceso": "CATASTRO DIGITAL",
+        "dependenciaProceso": "MESA DE ENTRADA",
         "dependenciaEnvio": ""
     },
     {
-        "fecha": 1700158175000,
-        "fechaString": "16-11-2023",
-        "hora": "15:09:35",
+        "fecha": 1700478248000,
+        "fechaString": "20-11-2023",
+        "hora": "08:04:08",
+        "actividad": "ENVIADO A ",
+        "dependenciaProceso": "MESA DE ENTRADA",
+        "dependenciaEnvio": "CATASTRO URBANO"
+    },
+    {
+        "fecha": 1700565193000,
+        "fechaString": "21-11-2023",
+        "hora": "08:13:13",
         "actividad": "EN PROCESO",
-        "dependenciaProceso": "CATASTRO DIGITAL",
+        "dependenciaProceso": "CATASTRO URBANO",
         "dependenciaEnvio": ""
     },
     {
-        "fecha": 1700224707000,
-        "fechaString": "17-11-2023",
-        "hora": "09:38:27",
-        "actividad": "ENTREGADO AL RECURRENTE",
-        "dependenciaProceso": "CATASTRO DIGITAL",
+        "fecha": 1701170646000,
+        "fechaString": "28-11-2023",
+        "hora": "08:24:06",
+        "actividad": "EN PROCESO",
+        "dependenciaProceso": "CATASTRO URBANO",
         "dependenciaEnvio": ""
     }
 ]
