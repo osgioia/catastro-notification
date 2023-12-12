@@ -46,5 +46,13 @@
         "actividad": "ENVIADO A ",
         "dependenciaProceso": "CATASTRO URBANO",
         "dependenciaEnvio": "ARCHIVO - EXPEDIENTES"
+    },
+    {
+        "fecha": 1702411082000,
+        "fechaString": "12-12-2023",
+        "hora": "16:58:02",
+        "actividad": "EN PROCESO",
+        "dependenciaProceso": "CATASTRO URBANO",
+        "dependenciaEnvio": ""
     }
 ]
