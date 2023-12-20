@@ -78,5 +78,13 @@
         "actividad": "EN PROCESO",
         "dependenciaProceso": "CATASTRO URBANO",
         "dependenciaEnvio": ""
+    },
+    {
+        "fecha": 1703023125000,
+        "fechaString": "19-12-2023",
+        "hora": "18:58:45",
+        "actividad": "EN PROCESO",
+        "dependenciaProceso": "CATASTRO URBANO",
+        "dependenciaEnvio": ""
     }
 ]
