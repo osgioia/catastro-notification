@@ -86,5 +86,29 @@
         "actividad": "EN PROCESO",
         "dependenciaProceso": "CATASTRO URBANO",
         "dependenciaEnvio": ""
+    },
+    {
+        "fecha": 1703094800000,
+        "fechaString": "20-12-2023",
+        "hora": "14:53:20",
+        "actividad": "ENVIADO A ",
+        "dependenciaProceso": "CATASTRO URBANO",
+        "dependenciaEnvio": "MESA DE SALIDA"
+    },
+    {
+        "fecha": 1703094887000,
+        "fechaString": "20-12-2023",
+        "hora": "14:54:47",
+        "actividad": "EN PROCESO",
+        "dependenciaProceso": "MESA DE SALIDA",
+        "dependenciaEnvio": ""
+    },
+    {
+        "fecha": 1703098992000,
+        "fechaString": "20-12-2023",
+        "hora": "16:03:12",
+        "actividad": "ENTREGADO AL RECURRENTE",
+        "dependenciaProceso": "MESA DE SALIDA",
+        "dependenciaEnvio": ""
     }
 ]
